@@ -1,6 +1,6 @@
 
 
-# 🎓 Student Management System
+🎓 Student Management System
 
 A web-based **Student Management System** developed using **Python and Django** to efficiently manage student records.
 
