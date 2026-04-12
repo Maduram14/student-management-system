@@ -30,19 +30,6 @@ This project is designed to store and manage student information in a structured
 
 ---
 
-## 📸 Screenshots
-
-*(Add your screenshots here for better understanding)*
-
-Example:
-
-```
-![Dashboard](images/dashboard.png)
-![Student List](images/list.png)
-```
-
----
-
 ## 📥 Installation & Setup
 
 ### 🔹 Step 1: Clone or Download
@@ -99,15 +86,6 @@ http://127.0.0.1:8000/
 
 * Python installed
 * pip installed
-
----
-
-## 🌐 Future Enhancements
-
-* 🔐 User Authentication System
-* 🔍 Search & Filter Students
-* ☁️ Cloud Deployment (Render / PythonAnywhere)
-* 📊 Dashboard Analytics
 
 ---
 
