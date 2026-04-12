@@ -1,6 +1,5 @@
 
-
-🎓 Student Management System
+# 🎓 Student Management System
 
 A web-based **Student Management System** developed using **Python and Django** to efficiently manage student records.
 
@@ -29,7 +28,20 @@ This project is designed to store and manage student information in a structured
 * **Frontend:** HTML, CSS, JavaScript, Bootstrap
 * **Database:** MySQL
 
+---
 
+## 📸 Screenshots
+
+*(Add your screenshots here for better understanding)*
+
+Example:
+
+```
+![Dashboard](images/dashboard.png)
+![Student List](images/list.png)
+```
+
+---
 
 ## 📥 Installation & Setup
 
@@ -105,11 +117,4 @@ http://127.0.0.1:8000/
 MCA 
 
 ---
-
-## ⭐ Support
-
-If you found this project helpful, please give it a ⭐ on GitHub!
-
----
-
 
